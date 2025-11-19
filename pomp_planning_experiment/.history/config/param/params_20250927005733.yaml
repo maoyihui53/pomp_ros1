@@ -1,0 +1,30 @@
+param_:
+  map:
+    size:
+      x: 50.0
+      y: 50.0
+      z: 50.0
+    resolution: 3.5
+  geometroy_env:
+    balls:
+      num_balls: 100
+      radius:
+        min: 1.0
+        max: 2.0
+    cones:
+      num_cones: 100
+      radius:
+        min: 1.0
+        max: 2.0
+      height:
+        min: 2.0
+        max: 4.0
+    boxes:
+      num_boxes: 100
+      size:
+        min: 0.5
+        max: 1.0
+          
+
+
+  
